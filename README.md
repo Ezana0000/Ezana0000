@@ -1,4 +1,4 @@
-# Hi, My name is Ezana Enquobahrie 👋
+# Hi, My name is Ezana Enquobahrie <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
 ## Electrical and Computer Engineering Student
 I'm currently a student at North Carolina State University pursuing a B.S. in ECE with a focus on Controls, Robotics, and Computer Architecture. I'm passionate about building autonomous systems and low-level hardware.
