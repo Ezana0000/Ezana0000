@@ -1,4 +1,4 @@
-# Hi, My name is Ezana Enquobahrie <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6ZzR0bmZicm94bmZreXhyZzR0bmZicm94bmZreXhyZzR0bmZiJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hpZp6rU9tY4A1u8Y1a/giphy.gif" width="30px">
+# Hi, My name is Ezana Enquobahrie <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 * 🌍 I'm based in Raleigh, NC
 * ✉️ You can contact me at eaenquob@ncsu.edu
