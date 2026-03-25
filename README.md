@@ -3,11 +3,10 @@
 ## Electrical and Computer Engineering Student
 I'm currently a student at North Carolina State University pursuing a B.S. in ECE with a focus on Controls, Robotics, and Computer Architecture. I'm passionate about building autonomous systems and low-level hardware.
 
-* 📍 I'm based in Raleigh, NC
-* 🎓 Expected Graduation: May 2028
-* 🧠 Currently diving deep into Verilog and RISC-V Architecture
-* ⚡ I’m looking for opportunities in Controls and Embedded Systems
-* 📫 How to reach me: [Your Email]
+* 🌍 I'm based in Raleigh, NC
+* ✉️ You can contact me at eaenquob@ncsu.edu
+* 🤝 I'm open to collaborating on any interesting projects
+* ⚡ I am also actively looking for internship opportunities!
 
 ### Skills
 <p align="left">
