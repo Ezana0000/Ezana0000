@@ -20,11 +20,6 @@ I'm currently a student at North Carolina State University pursuing a B.S. in EC
   <img src="https://img.shields.io/badge/Verilog-grey?style=for-the-badge" />
 </p>
 
-### Key Projects
-* **RISC-V Single Cycle Processor:** A 32-bit core implemented in structural Verilog.
-* **Embedded Autonomous RC Car:** System featuring line following and waypoint control using MSP430.
-* **Mini Robotic Arm:** Arduino-based control system with a custom-designed PCB.
-* **RFID Access Control:** Security system utilizing Arduino and LCD interfacing.
 
 ### Socials
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ezana-enquobahrie-257094231)
